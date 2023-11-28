@@ -1,6 +1,6 @@
 Vendor:So'hu 
 Product:So'hu Video Player
-Version:So'hu Video Player 7.0.15.0（Windows client）
+Version:So'hu Video Player 7.0.15.0（Windows Clients）
 
 # So'hu Video Player 
 
